@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Factura">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/Factura.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
